@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 
-- 🎓 &nbsp; Studying Computer Engineering at LD College of Engineering.
+- 🎓 &nbsp; Graduated BE in Computer Engineering at LD College of Engineering.
 - ✍️ &nbsp; Passout on June-2020.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
