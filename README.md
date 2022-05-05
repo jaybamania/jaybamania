@@ -6,7 +6,7 @@
 
 
 - 🎓 &nbsp; Studying Computer Engineering at LD College of Engineering.
-- ✍️ &nbsp; I will passout on June-2021.
+- ✍️ &nbsp; Passout on June-2020.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
